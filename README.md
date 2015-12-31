@@ -1,5 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/chrisbanes/cheesesquare/master/art/icon.png)
 
+2015最火项目之一 Plaid 是一款遵循 Material 风格设计的 Android App、 聚合了主流创意&设计相关资讯的新闻应用，想知道一款完整的 Material Design 的 App 应该怎么做？就看看它吧。
+
 Cheesesquare Sample
 ===================================
 
